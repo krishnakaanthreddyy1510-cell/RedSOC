@@ -2,6 +2,12 @@
 __pycache__/
 *.py[codz]
 *$py.class
+.env
+__pycache__/
+*.pyc
+.DS_Store
+results/*.csv
+data/raw/
 
 # C extensions
 *.so
