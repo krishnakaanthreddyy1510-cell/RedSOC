@@ -26,9 +26,12 @@ As two-thirds of organizations now deploy AI in their SOC environments, no unifi
 
 🚧 Active development — April 2026
 
-## Paper
+## Paper && ## Research Output
 
-**Preprint DOI:** https://doi.org/10.5281/zenodo.19519927.
+**Paper:** https://doi.org/10.6084/m9.figshare.32016498
+**Benchmark Dataset:** https://doi.org/10.6084/m9.figshare.32016534
+**Benchmark Charts:** https://doi.org/10.6084/m9.figshare.32016564
+**Zenodo Record:** https://zenodo.org/records/19519927
 
 ## Citation
 
