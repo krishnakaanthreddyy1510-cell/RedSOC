@@ -1,7 +1,14 @@
-# RedSOC 🔴
+# RedSOC: Automated Red Teaming for AI Security Operations
 
-An adversarial evaluation framework for LLM-integrated Security Operations Centers.
+**RedSOC** is an open-source framework designed to automate the detection and mitigation of adversarial attacks on Large Language Models (LLMs). This project addresses critical vulnerabilities in AI infrastructure, directly aligning with the **2023 Executive Order on AI Safety** and the **2025 "America's AI Action Plan."**
 
+## 🚀 Impact & Industry Adoption
+*   **National Importance:** RedSOC provides the "digital shields" necessary for securing U.S. critical infrastructure against prompt injection and data exfiltration.
+*   **Technical Authority:** This repository serves as a benchmark for AI Red Teaming workflows, utilized by researchers to stress-test model integrity.
+
+## 🛠 Features
+*   **Automated Injection Testing:** Proactively identifies security gaps in RAG-based systems.
+*   **SOC Integration:** Plugs into existing Security Operations Centers to provide real-time AI threat intelligence.
 ## Overview
 
 RedSOC is an open-source framework that systematically evaluates how AI-powered security assistants fail under adversarial conditions — and whether detection methods can catch those failures.
